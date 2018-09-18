@@ -1,9 +1,9 @@
 <?php 
 
 //setting connection variables 
-$username = "root";
-$dsn = "mysql:host=localhost; dbname=auth";
-$password = "Mypass07";
+$username = "";
+$dsn = "mysql:host=; dbname=";
+$password = "";
 
 //creating connection to the database
 try{
